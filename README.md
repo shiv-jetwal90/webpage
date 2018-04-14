@@ -1,2 +1,2 @@
-# webpage
+# personal infopage
 html-css-javascript
